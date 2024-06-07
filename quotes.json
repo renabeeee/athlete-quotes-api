@@ -1,0 +1,350 @@
+[
+  {
+    "quote": "I really think a champion is defined not by their wins but by how they can recover when they fall.",
+    "author": "Serena Williams",
+    "sport": "Tennis",
+    "team": "Professional Tennis Player"
+  },
+  {
+    "quote": "Champions keep playing until they get it right.",
+    "author": "Billie Jean King",
+    "sport": "Tennis",
+    "team": "Former Professional Tennis Player"
+  },
+  {
+    "quote": "The vision of a champion is someone who is bent over, drenched in sweat, at the point of exhaustion, when nobody else is watching.",
+    "author": "Mia Hamm",
+    "sport": "Soccer",
+    "team": "Former U.S. Women's National Soccer Team"
+  },
+  {
+    "quote": "I'd rather regret the risks that didn't work out than the chances I didn't take at all.",
+    "author": "Simone Biles",
+    "sport": "Gymnastics",
+    "team": "U.S. Women's Gymnastics Team"
+  },
+  {
+    "quote": "Just go out there and do what you have to do.",
+    "author": "Martina Navratilova",
+    "sport": "Tennis",
+    "team": "Former Professional Tennis Player"
+  },
+  {
+    "quote": "There are no limits, no barriers to your success, you will be unstoppable.",
+    "author": "Allyson Felix",
+    "sport": "Track and Field",
+    "team": "U.S. Women's Track and Field Team"
+  },
+  {
+    "quote": "Age is no barrier. It's a limitation you put on your mind.",
+    "author": "Jackie Joyner-Kersee",
+    "sport": "Track and Field",
+    "team": "Former U.S. Women's Track and Field Team"
+  },
+  {
+    "quote": "To be the best, you have to be able to handle the worst.",
+    "author": "Ronda Rousey",
+    "sport": "Mixed Martial Arts",
+    "team": "Former UFC Fighter"
+  },
+  {
+    "quote": "I've been told I have a natural talent, but talent only gets you so far.",
+    "author": "Lisa Leslie",
+    "sport": "Basketball",
+    "team": "Former WNBA Player"
+  },
+  {
+    "quote": "When you fall, get right back up. Just keep going, keep pushing it.",
+    "author": "Lindsey Vonn",
+    "sport": "Skiing",
+    "team": "Former U.S. Ski Team"
+  },
+  {
+    "quote": "Work hard. Dream big.",
+    "author": "Diana Taurasi",
+    "sport": "Basketball",
+    "team": "Phoenix Mercury (WNBA)"
+  },
+  {
+    "quote": "You have to believe in yourself when no one else does.",
+    "author": "Venus Williams",
+    "sport": "Tennis",
+    "team": "Professional Tennis Player"
+  },
+  {
+    "quote": "I've never scored a goal in my life without getting a pass from someone else.",
+    "author": "Abby Wambach",
+    "sport": "Soccer",
+    "team": "Former U.S. Women's National Soccer Team"
+  },
+  {
+    "quote": "Hard days are the best because that's when champions are made.",
+    "author": "Gabby Douglas",
+    "sport": "Gymnastics",
+    "team": "U.S. Women's Gymnastics Team"
+  },
+  {
+    "quote": "True champions aren't always the ones that win, but those with the most guts.",
+    "author": "Hope Solo",
+    "sport": "Soccer",
+    "team": "Former U.S. Women's National Soccer Team"
+  },
+  {
+    "quote": "I drive, I race, I win. I try to win as much as I can.",
+    "author": "Danica Patrick",
+    "sport": "Auto Racing",
+    "team": "Former NASCAR Driver"
+  },
+  {
+    "quote": "The triumph can't be had without the struggle.",
+    "author": "Wilma Rudolph",
+    "sport": "Track and Field",
+    "team": "Former U.S. Women's Track and Field Team"
+  },
+  {
+    "quote": "Pressure is a privilege.",
+    "author": "Billie Jean King",
+    "sport": "Tennis",
+    "team": "Former Professional Tennis Player"
+  },
+  {
+    "quote": "Find what you love and let it kill you.",
+    "author": "Chris Evert",
+    "sport": "Tennis",
+    "team": "Former Professional Tennis Player"
+  },
+  {
+    "quote": "Hard work has made it easy. That is my secret. That is why I win.",
+    "author": "Nadia Comaneci",
+    "sport": "Gymnastics",
+    "team": "Former Romanian Gymnastics Team"
+  },
+  {
+    "quote": "I push myself to be the best I can be. I don't worry about what other people are doing, and I don't waste time looking over my shoulder.",
+    "author": "Annika Sörenstam",
+    "sport": "Golf",
+    "team": "Former Professional Golfer"
+  },
+  {
+    "quote": "It's not all about winning. Sometimes it's simply about enjoying and appreciating the journey.",
+    "author": "Yuna Kim",
+    "sport": "Figure Skating",
+    "team": "Former South Korean Figure Skater"
+  },
+  {
+    "quote": "You don't always get what you wish for. But you do always get what you work for.",
+    "author": "Michelle Kwan",
+    "sport": "Figure Skating",
+    "team": "Former U.S. Figure Skating Team"
+  },
+  {
+    "quote": "You got to try and reach for the stars or try and achieve the unreachable.",
+    "author": "Cathy Freeman",
+    "sport": "Track and Field",
+    "team": "Former Australian Track and Field Team"
+  },
+  {
+    "quote": "I'm not the next anyone, I'm the first Maria Sharapova.",
+    "author": "Maria Sharapova",
+    "sport": "Tennis",
+    "team": "Former Professional Tennis Player"
+  },
+  {
+    "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+    "author": "Lindsey Horan",
+    "sport": "Soccer",
+    "team": "Portland Thorns FC"
+  },
+  {
+    "quote": "The more matches you play, the more confident you are and the more confident you feel.",
+    "author": "Caroline Wozniacki",
+    "sport": "Tennis",
+    "team": "Former Professional Tennis Player"
+  },
+  {
+    "quote": "Keep working even when no one is watching.",
+    "author": "Alex Morgan",
+    "sport": "Soccer",
+    "team": "Former U.S. Women's National Soccer Team"
+  },
+  {
+    "quote": "It's the trials and tribulations that make you stronger.",
+    "author": "Katie Ledecky",
+    "sport": "Swimming",
+    "team": "U.S. Women's Swimming Team"
+  },
+  {
+    "quote": "You have to love what you do to want to do it every day.",
+    "author": "Jordyn Wieber",
+    "sport": "Gymnastics",
+    "team": "U.S. Women's Gymnastics Team"
+  },
+  {
+    "quote": "Always believe that you can make it.",
+    "author": "Simona Halep",
+    "sport": "Tennis",
+    "team": "Professional Tennis Player"
+  },
+  {
+    "quote": "Success doesn't come overnight. Keep your eye on the prize and don't look back.",
+    "author": "Carli Lloyd",
+    "sport": "Soccer",
+    "team": "Former U.S. Women's National Soccer Team"
+  },
+  {
+    "quote": "If you don't get the results you want, change your approach, not the goal.",
+    "author": "Ashleigh Barty",
+    "sport": "Tennis",
+    "team": "Professional Tennis Player"
+  },
+  {
+    "quote": "You never know how strong you are until being strong is your only choice.",
+    "author": "Sloane Stephens",
+    "sport": "Tennis",
+    "team": "Professional Tennis Player"
+  },
+  {
+    "quote": "Anything is possible if you believe in yourself.",
+    "author": "Tori Bowie",
+    "sport": "Track and Field",
+    "team": "U.S. Women's Track and Field Team"
+  },
+  {
+    "quote": "Don't let the obstacles determine where you go. Determine where you want to go and don't stop until you get there.",
+    "author": "Shelly-Ann Fraser-Pryce",
+    "sport": "Track and Field",
+    "team": "Jamaican Track and Field Team"
+  },
+  {
+    "quote": "There's no magic to running far or climbing Everest. Endurance is mental strength. It's all about heart.",
+    "author": "Allyson Felix",
+    "sport": "Track and Field",
+    "team": "U.S. Women's Track and Field Team"
+  },
+  {
+    "quote": "The only disability in life is a bad attitude.",
+    "author": "Dorothy Hamill",
+    "sport": "Figure Skating",
+    "team": "Former U.S. Figure Skating Team"
+  },
+  {
+    "quote": "Winning doesn't always mean being first. Winning means you're doing better than you've ever done before.",
+    "author": "Bonnie Blair",
+    "sport": "Speed Skating",
+    "team": "Former U.S. Speed Skating Team"
+  },
+  {
+    "quote": "Optimism is a happiness magnet. If you stay positive, good things and good people will be drawn to you.",
+    "author": "Mary Lou Retton",
+    "sport": "Gymnastics",
+    "team": "Former U.S. Women's Gymnastics Team"
+  },
+  {
+    "quote": "Success doesn't happen overnight. Keep your eye on the prize and don't look back.",
+    "author": "Megan Rapinoe",
+    "sport": "Soccer",
+    "team": "Former U.S. Women's National Soccer Team"
+  },
+  {
+    "quote": "No one is easy. You have to fight for what you want.",
+    "author": "Ronda Rousey",
+    "sport": "Mixed Martial Arts",
+    "team": "Former UFC Fighter"
+  },
+  {
+    "quote": "You don't play for the crowd. You play for the country.",
+    "author": "Naomi Osaka",
+    "sport": "Tennis",
+    "team": "Professional Tennis Player"
+  },
+  {
+    "quote": "If you believe and work hard, your dreams can come true.",
+    "author": "Katie Taylor",
+    "sport": "Boxing",
+    "team": "Professional Boxer"
+  },
+  {
+    "quote": "Discipline is the bridge between goals and accomplishment.",
+    "author": "Dawn Staley",
+    "sport": "Basketball",
+    "team": "Former WNBA Player"
+  },
+  {
+    "quote": "We have to be our number one fan before anyone else can be.",
+    "author": "Misty May-Treanor",
+    "sport": "Beach Volleyball",
+    "team": "Former U.S. Women's Beach Volleyball Team"
+  },
+  {
+    "quote": "You have to know what sparks the light in you so that you, in your own way, can illuminate the world.",
+    "author": "Laila Ali",
+    "sport": "Boxing",
+    "team": "Former Professional Boxer"
+  },
+  {
+    "quote": "You can't always be the strongest or most talented. But you can be the most determined.",
+    "author": "Paula Radcliffe",
+    "sport": "Running",
+    "team": "British Distance Runner"
+  },
+  {
+    "quote": "The only one who can tell you 'you can't' is you. And you don't have to listen.",
+    "author": "Jessica Ennis-Hill",
+    "sport": "Track and Field",
+    "team": "Former British Track and Field Team"
+  },
+  {
+    "quote": "Life is full of what-ifs. You can't let it control you.",
+    "author": "Bethany Hamilton",
+    "sport": "Surfing",
+    "team": "Professional Surfer"
+  },
+  {
+    "quote": "You can always get better.",
+    "author": "Lindsey Vonn",
+    "sport": "Skiing",
+    "team": "Former U.S. Ski Team"
+  },
+  {
+    "quote": "I want to win. I want to be the best.",
+    "author": "Danica Patrick",
+    "sport": "Auto Racing",
+    "team": "Former NASCAR Driver"
+  },
+  {
+    "quote": "No matter what accomplishments you make, somebody helped you.",
+    "author": "Althea Gibson",
+    "sport": "Tennis",
+    "team": "Former Professional Tennis Player"
+  },
+  {
+    "quote": "You have to believe in the long-term plan you have but you need the short-term goals to motivate and inspire you.",
+    "author": "Kim Clijsters",
+    "sport": "Tennis",
+    "team": "Former Professional Tennis Player"
+  },
+  {
+    "quote": "You've got to take the initiative and play your game. In a decisive set, confidence is the difference.",
+    "author": "Ann Meyers",
+    "sport": "Basketball",
+    "team": "Former WNBA Player"
+  },
+  {
+    "quote": "Believe me, the reward is not so great without the struggle.",
+    "author": "Wilma Rudolph",
+    "sport": "Track and Field",
+    "team": "Former U.S. Women's Track and Field Team"
+  },
+  {
+    "quote": "It's important to push yourself further than you think you can go each and every day - as that is what separates the good from the great.",
+    "author": "Shannon Miller",
+    "sport": "Gymnastics",
+    "team": "Former U.S. Women's Gymnastics Team"
+  },
+  {
+    "quote": "Failure I can live with. Not trying is what I can't handle!",
+    "author": "Sanya Richards-Ross",
+    "sport": "Track and Field",
+    "team": "U.S. Women's Track and Field Team"
+  }
+]
