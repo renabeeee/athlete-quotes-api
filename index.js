@@ -11,6 +11,7 @@ fs.readFile("quotes.json", "utf8", (err, data) => {
     return;
   }
   quotes = JSON.parse(data);
+  console.log("Total num of quotes:", quotes.length);
 });
 
 app.get("/quote", (req, res) => {
